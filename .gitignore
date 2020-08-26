@@ -1,0 +1,9 @@
+.idea
+.pytest_cache
+build
+dist
+phonebook_env
+phonebook.egg-info
+__pycache__
+.idea
+*.iml
